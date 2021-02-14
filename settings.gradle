@@ -1,0 +1,3 @@
+rootProject.name = 'CustomInventory'
+include 'inventory-example-plugin'
+
