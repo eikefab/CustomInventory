@@ -1,6 +1,6 @@
-package com.github.eikefab.libs.minecraft.inventory;
+package com.github.eikefab.libs.minecraft.custominventory.inventory;
 
-import com.github.eikefab.libs.minecraft.InventoryRegistry;
+import com.github.eikefab.libs.minecraft.custominventory.InventoryRegistry;
 import lombok.Data;
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.inventory.ItemStack;

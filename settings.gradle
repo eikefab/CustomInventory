@@ -1,3 +1,4 @@
 rootProject.name = 'CustomInventory'
 include 'inventory-example-plugin'
+include 'bukkit'
 

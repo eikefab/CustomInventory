@@ -1,8 +1,7 @@
-package com.github.eikefab.libs.minecraft;
+package com.github.eikefab.libs.minecraft.custominventory;
 
-import com.github.eikefab.libs.minecraft.inventory.CustomInventory;
+import com.github.eikefab.libs.minecraft.custominventory.inventory.CustomInventory;
 import lombok.Data;
-import org.apache.commons.lang.Validate;
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
 import org.bukkit.event.EventHandler;

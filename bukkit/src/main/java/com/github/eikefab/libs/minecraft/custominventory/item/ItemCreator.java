@@ -1,4 +1,4 @@
-package com.github.eikefab.libs.minecraft.item;
+package com.github.eikefab.libs.minecraft.custominventory.item;
 
 import lombok.Getter;
 import org.bukkit.ChatColor;

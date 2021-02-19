@@ -1,4 +1,4 @@
-package com.github.eikefab.libs.minecraft;
+package com.github.eikefab.libs.minecraft.custominventory;
 
 import lombok.Getter;
 import lombok.Setter;
